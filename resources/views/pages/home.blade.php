@@ -53,7 +53,7 @@
                     <h1 class="mx-auto font-bold mb-0 font3 heading2">DISAI</h1>
                 </div>
             </div>
-        </div>
+        </div> 
         <div class="container">
             <div class="col-12 py-md-5 py-3">
                 <div class="d-flex row m-0 doctors_card">

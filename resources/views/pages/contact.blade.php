@@ -20,7 +20,7 @@
     <!-- further enquery -->
     <div class="col-12 bg-form  animated animatedParent">
         <div class="d-flex container py-3 mb-3 animated fadeInUpShort delay-250">
-            <div class="">
+            <div class=""> 
                 <h3 class="gradient-form">Have questions about how we can help you grow, scale, and</h3>
                 <h3 class="gradient-form"> transform your business?</h3>
                 <h3 class="gradient-form"> Do let us know how to connect with you.</h3>

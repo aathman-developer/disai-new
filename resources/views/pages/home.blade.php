@@ -74,7 +74,59 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="col-md-4 my-3 my-lg-0">
+                        <div class="card card-shadow">
+                            <div class="doctor">
+                                <img class="card-img-top o-cover c-img" src="assets/images/d2.png">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-center font-bold">Dr.PRUDVISH YARLAGADDA</h5>
+                                <p class="card-text text-center heal-para mb-1">M.B.B.S,M.D(PMR-CMC Vellore)</p>
+                                <div class="text-center mt-lg-3">
+                                    <a href="{{ url('/about') }}"
+                                        class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
+                                        <button type="button" class="btn  semi_font_bold">View
+                                            More</button></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 my-3 my-lg-0">
+                        <div class="card card-shadow">
+                            <div class="doctor c-img">
+                                <img class="card-img-top o-cover h-100" src="assets/images/d1.jpeg">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-center font-bold">Dr.B.CHANDINI</h5>
+                                <p class="card-text text-center heal-para mb-1">M.B.B.S</p>
+                                <div class="text-center mt-lg-3">
+                                    <a href="{{ url('/about') }}"
+                                        class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
+                                        <button type="button" class="btn  semi_font_bold">View
+                                            More</button></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex row m-0 doctors_card mt-lg-5">
+                    <div class="col-md-4 my-3 my-lg-0">
+                        <div class="card card-shadow">
+                            <div class="doctor ">
+                                <img class="card-img-top o-cover c-img" src="assets/images/d1.jpeg">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-center font-bold">Lorem</h5>
+                                <p class="card-text text-center heal-para mb-1">Lorem Lorem Lorem</p>
+                                <div class="text-center mt-lg-3">
+                                    <a href="{{ url('/about') }}"
+                                        class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
+                                        <button type="button" class="btn  semi_font_bold">View
+                                            More</button></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor">

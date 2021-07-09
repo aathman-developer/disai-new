@@ -35,7 +35,7 @@
                     </div>
                     <div class="d-flex mt-1 py-4">
                         <img src="assets/images/kite.png" height="27" class="mt-3">
-                        <p class="mb-0 px-4 fonttype cl">innovate@gradatim.co.in</p>
+                        <p class="mb-0 px-4 fonttype cl">innovate@g.co.in</p>
                     </div>
                     <div class="d-flex mt-1 py-4">
                         <img src="assets/images/location.png" height="27" class="mt-2">

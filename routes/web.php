@@ -22,22 +22,7 @@ if(SITE_MAINTENANCE=='NO')
 	Route::get('/gallery','HomeController@gallery');
 	Route::get('/view','HomeController@view');
 	Route::get('/contact','HomeController@contact');
-
-	Route::get('/admin','AdminController@login');
-	Route::post('admin/check_login','AdminController@check_login');	
-
-	Route::group([ 'prefix' => 'admin','middleware' => 'checkadmin'], function()
-	{
-		Route::get('msme','AdminController@view_msme');	
-		Route::get('category','AdminController@category');
-		Route::get('contact_data','AdminController@view_msme');	
-		// Route::get('dashboard','AdminController@dashboard');
-		Route::get('image_upload','HomeController@viewgallery');	
-		Route::get('logout','AdminController@logout');
-	});
-		
-
-
+	
 }
 else
 {

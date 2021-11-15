@@ -28,21 +28,42 @@
     <!-- text session2 in disai -->
     <div class="col-12 px-3 mt-lg-4">
         <div class="d-flex">
-            <h1 class="mx-auto font-bold mb-0 font3 heading2">Objective</h1>
+            <h1 class="mx-auto font-bold mb-0 font3 heading2">Overview</h1>
         </div>
     </div>
-    <div class="col-12 px-3 text-center py-4">
-        <p class="live-well-p px-0 px-md-5 mb-0 py-md-4">Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-        <p class="live-well-p px-0 px-md-5 mb-0"> Vision: Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-        <p class="live-well-p px-0 px-md-5 mb-0">Mission: Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-            to attain the highest possible level
-            of independence</p>
-
+    <div class="col-12 px-3 text-center py-3">
+        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+            <span class="font_bold pr-2">Digital Security Association of India</span>(DiSAI) is a non-profit NGO
+            registered as a public
+            trust to create awareness on digital security. DiSAI was originally started as the fourth
+            initiative of the monthly e-magazine ‘PreSense’ published by Prime Point Foundation, the
+            other three being Sansad Ratna Awards (jointly with IIT Madras) for honoring outstanding
+            MPs, Education Loan Task Force (for creating awareness among students and parents on
+            education loans) and Digital Journalists Association of India (focusing on digital journalism),
+            which also includes Next Generation Political Leaders (NGPL), for grooming young political
+            aspirants. DiSAI has since become an independent organisation on its own, out of the
+            PrimePoint Foundation.
         </p>
-
+    </div>
+    <div class="col-12 px-3 mt-lg-4">
+        <div class="d-flex">
+            <h1 class="mx-auto font-bold mb-0 font3 heading2">Vision</h1>
+        </div>
+    </div>
+    <div class="col-12 px-3 text-center py-3">
+        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+        To strive ceaselessly in creating a digitally secure society in India.
+        </p>
+    </div>
+    <div class="col-12 px-3 mt-lg-4">
+        <div class="d-flex">
+            <h1 class="mx-auto font-bold mb-0 font3 heading2">Mission</h1>
+        </div>
+    </div>
+    <div class="col-12 px-3 text-center py-3">
+        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+        To create awareness in the society on the various components of digital security.
+        </p>
     </div>
     <!-- session3 in disai -->
     <!-- doctor section -->
@@ -53,7 +74,7 @@
                     <h1 class="mx-auto font-bold mb-0 font3 heading2">DISAI</h1>
                 </div>
             </div>
-        </div> 
+        </div>
         <div class="container">
             <div class="col-12 py-md-5 py-3">
                 <div class="d-flex row m-0 doctors_card">
@@ -165,7 +186,7 @@
             </div>
         </div>
     </div>
-    
+
 </div>
 @include('includes.footer')
 <!-- </div> -->

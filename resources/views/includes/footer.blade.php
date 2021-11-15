@@ -11,6 +11,7 @@
                     </div>
                     <div class=" mx-lg-2">
                         <p class="kitchen-p">Modular Manufacturers</p>
+                        <p class="kitchen-p">info@disai.in</p>
                     </div>
                 </div>
             </div>

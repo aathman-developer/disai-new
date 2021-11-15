@@ -3,14 +3,14 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 px-0">
-  <!-- image section1 -->
-  <div class="col-12 px-0">
+    <!-- image section1 -->
+    <div class="col-12 px-0">
         <div class="col-12 px-0">
             <img src="assets/images/about.jpeg" id="myVideo" class="w-100">
         </div>
         <div class="content d-flex justify-content-center align-items-end">
             <div class="position-relative">
-                <div class="about-head mb-lg-5">
+                <div class="contact-head mb-lg-5">
                     <h3 class="a-h3">Contact us</h3>
                 </div>
                 <!-- <div class="about-bg"></div> -->
@@ -19,23 +19,30 @@
     </div>
     <!-- further enquery -->
     <div class="col-12 bg-form  animated animatedParent">
-        <div class="d-flex container py-3 mb-3 animated fadeInUpShort delay-250">
-            <div class=""> 
-                <h3 class="gradient-form">Have questions about how we can help you grow, scale, and</h3>
-                <h3 class="gradient-form"> transform your business?</h3>
-                <h3 class="gradient-form"> Do let us know how to connect with you.</h3>
+        <div class="container py-3">
+            <div class="">
+                <h3 class="phn_text gradient-form text-center">For enquiries regarding membership kindly email<br>
+                    info@disai.in or
+                    disai.india@gmail.com <br>or
+                    contact the Chairman or the Secretary.</h3>
+                <h3 class="phn_text gradient-form text-center mt-3">
+                    For organizing events and workshop related activities
+                    please contact Shri C. Badri, Chairman, Events Committee (formerly General Manager and
+                    Chief Vigilance Officer, Indian Overseas Bank and formerly General Manager, Canara
+                    Bank), Mobile No. 9840504327<br> or the Chairman / Secretary.</h3>
             </div>
         </div>
-        <div class="col-12 py-2 py-lg-4">
+    </div>
+    <!-- <div class="col-12 py-2 py-lg-4">
             <div class="d-flex row m-0  animated animatedParent">
-                <div class="col-md-6 px-3 px-lg-5 animated fadeInUpShort delay-500">
+                <div class="col-12 px-3 px-lg-5 animated fadeInUpShort delay-500">
                     <div class="d-flex mt-1 py-4">
                         <img src="assets/images/cellphone.png" height="27" class="mt-2">
                         <p class="mb-0 px-4 fonttype cl">+91 80 25258656; +91 80 25258676</p>
                     </div>
                     <div class="d-flex mt-1 py-4">
                         <img src="assets/images/kite.png" height="27" class="mt-3">
-                        <p class="mb-0 px-4 fonttype cl">innovate@g.co.in</p>
+                        <p class="mb-0 px-4 fonttype cl">info@disai.in (or) disai.india@gmail.com</p>
                     </div>
                     <div class="d-flex mt-1 py-4">
                         <img src="assets/images/location.png" height="27" class="mt-2">
@@ -82,11 +89,9 @@
                         </div><span id="snackbar" class=""></span>
                     </div>
 
-                </div>
-            </div>
-        </div>
-    </div>
+                </div> -->
 </div>
+
 @include('includes.footer')
 <!-- </div> -->
 @stop

@@ -26,13 +26,13 @@
             </div>
             <div class="d-flex row mt-2 mt-lg-0 pt-lg-3 justify-content-end m-lg-0 res-cen">
                 <p class="mx-2 foot-right"><a href="{{ url('/contact') }}" class="foot-c px-lg-4">Contact Us</a></p>
-                <p class="mx-2 foot-right"><a href="" class="foot-c px-lg-4">Testmonial</a></p>
-                <p class="mx-2 foot-right"><a href="" class="foot-c px-lg-4">Company</a></p>
+                <p class="mx-2 foot-right"><a href="{{ url('/trustee') }}" class="foot-c px-lg-4">TRUSTEES</a></p>
+                <p class="mx-2 foot-right"><a href="{{ url('/committee') }}" class="foot-c px-lg-4">COMMITTEE</a></p>
             </div>
             <div class="d-flex row justify-content-end res-cen">
-                <p class="mx-2 foot-right"><a href="" class="foot-c px-lg-4">Terms & Policies</a></p>
-                <p class="mx-2 foot-right"><a href="" class="foot-c px-lg-4">How it works</a></p>
-                <p class="mx-2 foot-right"><a href="" class="foot-c px-lg-4">Blogs</a></p>
+                <p class="mx-2 foot-right"><a href="{{ url('/view') }}" class="foot-c px-lg-4">VIEWS & REPORTS</a></p>
+                <p class="mx-2 foot-right"><a href="{{ url('/gallery') }}" class="foot-c px-lg-4">PHOTO GALLERY</a></p>
+                <p class="mx-2 foot-right"><a href="{{url('/')}}" class="foot-c px-lg-4">Blogs</a></p>
             </div>
         </div>
     </div>

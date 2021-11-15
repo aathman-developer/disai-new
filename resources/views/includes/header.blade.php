@@ -34,16 +34,16 @@
         </button>
         <div class="collapse navbar-collapse naranjee-head justify-content-end" id="navbarNavDropdown">
             <ul class="navbar-nav py-1 d-flex align-items-center">
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == '/')?'head-active':'head-deactive' }}"
                         href="{{ url('/') }}" title="HOME">HOME
                     </a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'about')?'head-active':'head-deactive' }}"
                         href="{{ url('/about') }}" title="ABOUT US">ABOUT US</a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link wht h-clr {{ (Route::current()->uri() == 'trustee')?'head-active':'head-deactive' }}"
                         href="{{ url('/trustee') }}" 
                         title="Trustees">TRUSTEES</a>
@@ -74,23 +74,23 @@
                             </a></li>
                     </ul> -->
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'committee')?'head-active':'head-deactive' }}"
                         href="{{ url('/committee') }}" title="Committee">COMMITTEE</a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'mou')?'head-active':'head-deactive' }}"
                         href="{{ url('/mou') }}" title="MOU & COLLABORATION">MOU & COLLABORATION</a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'events')?'head-active':'head-deactive' }}"
                         href="{{ url('/events') }}" title="EVENTS">EVENTS</a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'gallery')?'head-active':'head-deactive' }}"
                         href="{{ url('/gallery') }}" title="PHOTO GALLERY">PHOTO GALLERY</a>
                 </li>
-                <li class="nav-item px-4">
+                <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'view')?'head-active':'head-deactive' }}"
                         href="{{ url('/view') }}" title="VIEWS & REPORTS">VIEWS & REPORTS</a>
                 </li>

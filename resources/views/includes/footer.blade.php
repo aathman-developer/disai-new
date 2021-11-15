@@ -39,7 +39,7 @@
     <div class=" p-1"></div>
     <div class="col-12 px-lg-0">
         <div class="">
-            <p class="foot-down foot-c">© 2020 Disai | All rights reserved</p>
+            <p class="foot-down foot-c">© <?php echo date("Y");?> Disai | All rights reserved</p>
         </div>
     </div>
 

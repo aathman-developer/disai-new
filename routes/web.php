@@ -15,9 +15,9 @@ if(SITE_MAINTENANCE=='NO')
 {
 	Route::get('/','HomeController@home_page');
 	Route::get('/about','HomeController@about_us');
-	Route::get('/trustee','HomeController@trustee');
+	Route::get('/management_team','HomeController@management_team');
 	Route::get('/mou','HomeController@mou');
-	Route::get('/committee','HomeController@committee');
+	// Route::get('/committee','HomeController@committee');
 	Route::get('/events','HomeController@events');
 	Route::get('/gallery','HomeController@gallery');
 	Route::get('/view','HomeController@view');

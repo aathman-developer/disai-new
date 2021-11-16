@@ -230,7 +230,7 @@
     </div>
     <div class="col-12 py-2 py-lg-4 mb-4">
         <div class="container">
-            <div class="text-center">
+            <div class="text-center px-3 px-lg-0">
                 <p class="mb-0 shadow-sm mx-auto text-decor-none py-3 px-lg-5 fomt-plan text-uppercase">
                     DiSAI wishes safe and happy browsing!
                 </p>

@@ -117,7 +117,7 @@ $(document).ready(function () {
     else {
         $(".navbar-nav  ").removeClass("bg-black");
     }
-    $(".lightgallery").lightGallery();
+    
 });
 /*contact us page remove logo*/
 $(document).ready(function () {
@@ -130,28 +130,9 @@ $(document).ready(function () {
         // $('.new-contact').removeClass("d-none")
         $(".new-contact").removeClass("d-none")
     }
-    $(function () {
-        $('#select-name').selectize({
-            // plugins: ['remove_button']
-        });
-        $('#select-name1').selectize({
-            // plugins: ['remove_button']
-        });
-        $('#select-name2').selectize({
-            // plugins: ['remove_button']
-        });
-        $("#select-name")[0].selectize.clear();
-        $("#select-name1")[0].selectize.clear();
-        $("#select-name2")[0].selectize.clear();
-    });
+    
 
-    // $(".panel-collapse").on("show.bs.collapse", function () {
-    //     (".panel-heading").addClass("active");
-    // });
-
-    // $(".panel-collapse").on("hide.bs.collapse", function () {
-    //     (".panel-heading").removeClass("active");
-    // });
+   
     $('#accordion .panel .panel-heading a').on('click', function () {
         setTimeout(() => {
             // console.log($(this).next().hasClass("show"))
@@ -214,11 +195,7 @@ function scrollToAnyPoint(navItem) {
 
 
 
-$(document).ready(() => {
-    $(".lightgallery").lightGallery({
-        pager: true
-    });
-});
+
 
 
 

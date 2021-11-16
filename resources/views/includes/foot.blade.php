@@ -9,14 +9,14 @@
 <script type="text/javascript" src="{{url('assets/scripts/jquery-ui.min.js')}}"></script>
 <!-- <script type="text/javascript" src="{{url('assets/scripts/jquery.fullpage.js')}}"></script> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-  <script type="text/javascript" src="{{url('assets/scripts/lightgallery.min.js')}}"></script>
-  <script type="text/javascript" src="{{url('assets/scripts/thumbnail.min.js')}}"></script>
-  <script type="text/javascript" src="{{url('assets/scripts/fullscreen.min.js')}}"></script>
+  <!-- <script type="text/javascript" src="{{url('assets/scripts/lightgallery.min.js')}}"></script> -->
+  <!-- <script type="text/javascript" src="{{url('assets/scripts/thumbnail.min.js')}}"></script> -->
+  <!-- <script type="text/javascript" src="{{url('assets/scripts/fullscreen.min.js')}}"></script> -->
 
 <script type="text/javascript" src="{{url('assets/scripts/loader_anime.js')}}"></script>
 <script type="text/javascript" src="{{url('assets/scripts/owl.carousel.js')}}"></script>
 <script type="text/javascript" src="{{url('assets/scripts/slick.min.js')}}"></script>
-<script type="text/javascript" src="{{url('assets/scripts/selectize.js')}}"></script>
+<!-- <script type="text/javascript" src="{{url('assets/scripts/selectize.js')}}"></script> -->
 <?php if(Request::segment(1) == "technologies"){?>
 <script type="text/javascript" src="{{url('assets/scripts/materialize.js')}}"></script>
 <link rel="stylesheet" href="{{url('assets/stylesheets/materialize.css')}}">

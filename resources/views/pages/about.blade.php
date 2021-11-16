@@ -67,7 +67,7 @@
                             activities especially in the area of cyber crimes, IT Laws, information security, data
                             privacy
                             and such subjects.
-                        </p>                     
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3">Read More</button>
                 </div>
@@ -87,16 +87,9 @@
                             St Theresa University, West Indies, was the President of DiSAI from its registration and
                             until
                             June 2021 when he opted out.
-                        </p>
-                        <!-- <div class="my-lg-3 mt-lg-5">
-                            <p class="structure mb-0 px-lg-5">structura villas</p>
-                            <p class="mb-0 ab-name px-lg-5">Steven J. Obryan</p>
-                            <p class="mb-0 ab-auth px-lg-5">architect</p>
-                        </div>
-                        <div class="img-pos">
-                            <img src="assets/images/round.png" class="ab-img-ht">
-                        </div> -->
+                        </p>                     
                     </div>
+                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
                 </div>
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
@@ -115,7 +108,7 @@
                             this area, was the principal motivator behind founding this initiative “DiSAI’ and was
                             closely
                             associated with all activities of DiSAI until June 2021.
-                        </p>                                            
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3">Read More</button>
                 </div>
@@ -136,7 +129,7 @@
                             years of active experience in various fields mostly in the management cadre, having been
                             associated with many IT, engineering, software and non-banking finance companies in
                             various capacities including as the CEO and director.
-                        </p>                        
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3">Read More</button>
                 </div>
@@ -154,16 +147,9 @@
                             director level official in a major IT MNC and comes with around 20+ years experience in the
                             entire gamut of IT operations globally, including especially the cyber security and related
                             areas.
-                        </p>
-                        <!-- <div class="my-lg-3 mt-lg-5">
-                            <p class="structure mb-0 px-lg-5">structura villas</p>
-                            <p class="mb-0 ab-name px-lg-5">Steven J. Obryan</p>
-                            <p class="mb-0 ab-auth px-lg-5">architect</p>
-                        </div>
-                        <div class="img-pos">
-                            <img src="assets/images/round.png" class="ab-img-ht">
-                        </div> -->
+                        </p>                      
                     </div>
+                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
                 </div>
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
@@ -182,7 +168,7 @@
                             analysing and implementing different security standards and such security guidelines. He is
                             an invited speaker in various industry and professional bodies including the staff training
                             centres of various banks, IT firms and the T.N. police academy.
-                        </p>                      
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3">Read More</button>
                 </div>
@@ -203,9 +189,9 @@
                             institutions like the T.N. Police Academy, judicial officers in the state, various banks
                             etc.
                             the Zonal Head of Asian School of Cyber Laws and.
-                        </p>                 
+                        </p>
                     </div>
-                    <!-- <button class="read_more d-flex ml-auto m-3">Read More</button> -->
+                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
                 </div>
             </div>
         </div>
@@ -240,15 +226,14 @@
             every
             month, covering articles on the latest news about cyber crimes, IT Laws, Digital Security and
             other related areas.</p> -->
-        
+
     </div>
     <div class="col-12 py-2 py-lg-4 mb-4">
         <div class="container">
             <div class="text-center">
-                <p 
-                    class="mb-0 shadow-sm mx-auto text-decor-none py-3 px-lg-5 fomt-plan text-uppercase">
+                <p class="mb-0 shadow-sm mx-auto text-decor-none py-3 px-lg-5 fomt-plan text-uppercase">
                     DiSAI wishes safe and happy browsing!
-            </p>
+                </p>
             </div>
         </div>
     </div>

@@ -5287,7 +5287,7 @@
                             .border-review.active {}
 
                             .nav-item a {
-                                font-size: 1em;
+                                font-size: 15px;
                             }
 
                             .disai-head {
@@ -5305,9 +5305,12 @@
 
                             .gradient-form {
                                 letter-spacing: 0px;
-                                color: #FFFFFF;
+                                /* color: #FFFFFF; */
                                 font-size: 2em;
                                 line-height: 1.5;
+                                font-family: neris-light;
+                            }
+                            .tex{
                                 font-family: neris-semi;
                             }
 
@@ -5392,6 +5395,9 @@
                                 .event-head::before{
                                     left: -89px !important;
                                 }
+                                .mbl_view{
+                                    display: block !important;
+                                }
                             }
                             #hgt{
                                 height: 100vh;
@@ -5466,3 +5472,14 @@
                                 bottom: -21px;
                                 z-index: -1;
                             }
+                            .sh{
+                                box-shadow: 0px 1px 18px 0px #c0c0c0;
+                            }
+                            @media(min-width:992px)
+
+{
+    .mbl_view{
+        display: none !important;
+    }
+
+}                           

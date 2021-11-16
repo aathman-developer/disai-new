@@ -18,18 +18,18 @@
         </div>
     </div>
     <!-- further enquery -->
-    <div class="col-12 bg-form  animated animatedParent">
+    <div class="col-12   animated animatedParent">
         <div class="container py-3">
-            <div class="">
+            <div class="sh p-4">
                 <h3 class="phn_text gradient-form text-center">For enquiries regarding membership kindly email<br>
-                    info@disai.in or
-                    disai.india@gmail.com <br>or
+                  <span class="tex">  info@disai.in or
+                    disai.india@gmail.com</span> <br>or
                     contact the Chairman or the Secretary.</h3>
                 <h3 class="phn_text gradient-form text-center mt-3">
                     For organizing events and workshop related activities
                     please contact Shri C. Badri, Chairman, Events Committee (formerly General Manager and
                     Chief Vigilance Officer, Indian Overseas Bank and formerly General Manager, Canara
-                    Bank), Mobile No. 9840504327<br> or the Chairman / Secretary.</h3>
+                    Bank),<span class="tex"> Mobile No. 9840504327</span><br> or the Chairman / Secretary.</h3>
             </div>
         </div>
     </div>

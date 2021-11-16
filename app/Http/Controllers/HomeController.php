@@ -26,7 +26,7 @@ class HomeController extends Controller
 	{
 		return View::make('pages/about');
 	}
-	public function trustee()
+	public function management_team()
 	{
 		return View::make('pages/trustee');
 	}

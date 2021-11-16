@@ -44,40 +44,14 @@
                         href="{{ url('/about') }}" title="ABOUT US">ABOUT US</a>
                 </li>
                 <li class="nav-item px-3">
-                    <a class="nav-link wht h-clr {{ (Route::current()->uri() == 'trustee')?'head-active':'head-deactive' }}"
-                        href="{{ url('/trustee') }}" 
-                        title="Trustees">TRUSTEES</a>
-                    <!-- <ul class="dropdown z-depth-1 p-0 d-dow d-flex align-items-center">
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#l-shape') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/lshape.png" class="h-110 h-img">
-                                <p class="text-center h-p">COMMITTEE</p>
-                            </a></li>
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#g-shape') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/gshape.png" class="h-110 h-img">
-                                <p class="text-center h-p">G-Shape</p>
-                            </a></li>
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#island') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/island.png" class="h-110 h-img">
-                                <p class="text-center h-p">Island</p>
-                            </a></li>
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#parallel') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/paralel.png" class="h-110 h-img">
-                                <p class="text-center h-p">Parallel</p>
-                            </a></li>
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#straight') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/stright.png" class="h-110 h-img">
-                                <p class="text-center h-p">Straight</p>
-                            </a></li>
-                        <li class="list-type-none mt-2"><a href="{{ url('/modular_kitchen#u-shape') }}" class="p-2 clrr text-decor-none d-block">
-                                <img src="assets/images/kitchen/ushape.png" class="h-110 h-img">
-                                <p class="text-center h-p">U-Shape</p>
-                            </a></li>
-                    </ul> -->
+                    <a class="nav-link wht h-clr {{ (Route::current()->uri() == 'management_team')?'head-active':'head-deactive' }}"
+                        href="{{ url('/management_team') }}" 
+                        title="Management Team">MANAGEMENT TEAM</a>                   
                 </li>
-                <li class="nav-item px-3">
+                <!-- <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'committee')?'head-active':'head-deactive' }}"
                         href="{{ url('/committee') }}" title="Committee">COMMITTEE</a>
-                </li>
+                </li> -->
                 <li class="nav-item px-3">
                     <a class="nav-link font-bold narajee-head neris-semi h-clr wht {{ (Route::current()->uri() == 'mou')?'head-active':'head-deactive' }}"
                         href="{{ url('/mou') }}" title="MOU & COLLABORATION">MOU & COLLABORATION</a>
@@ -116,13 +90,13 @@
                 href="{{ url('/about') }}" title="About US">About US</a>
         </li>
         <li class="navbar-side-item p-2">
-            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'trustee')?'primary-text-color':'text-muted' }}"
-                href="{{ url('/trustee') }}" title="TRUSTEES">TRUSTEES</a>
+            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'management_team')?'primary-text-color':'text-muted' }}"
+                href="{{ url('/management_team') }}" title="Management Team">Management Team</a>
         </li>
-        <li class="navbar-side-item p-2">
+        <!-- <li class="navbar-side-item p-2">
             <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'committee')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/committee') }}" title="COMMITTEE">COMMITTEE</a>
-        </li>
+        </li> -->
         <li class="navbar-side-item p-2">
             <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'mou')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/mou') }}" title="MOU & COLLABORATION">MOU & COLLABORATION</a>

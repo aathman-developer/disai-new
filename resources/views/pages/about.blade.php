@@ -32,14 +32,14 @@
     </div>
 
     <!-- session 3 youtube vdo -->
-    <div class="col-12 mt-3 mt-lg-5">
+    <!-- <div class="col-12 mt-3 mt-lg-5">
         <div class="container">
             <iframe class="w-100" height="415" src="https://www.youtube.com/embed/inWWhr5tnEA"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
         </div>
-    </div>
+    </div> -->
 
     <!--session 4 architect -->
     <div class="col-12 mt-5 mt-lg-5">

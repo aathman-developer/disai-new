@@ -535,6 +535,10 @@
                                 font-family: 'segoe-semi';
                                 src: url('../fonts/segoe/segoe-semibold.ttf');
                             }
+                            @font-face {
+                                font-family: 'segoe-light';
+                                src: url('../fonts/segoe/segoeuil.ttf');
+                            }
 
                             .nav-link {
                                 font-family: segoe-semi;
@@ -4168,6 +4172,7 @@
                                 -webkit-line-clamp: 6;
                                 max-height: 8.4rem;
                                 font-family: neris-light;
+                                min-height: 71px;
                             }
 
                             .for-further {
@@ -4810,8 +4815,8 @@
                             }
 
                             @media (max-width: 992px) {
-                                .about-head::before{
-                                    left:-45px;
+                                .about-head::before {
+                                    left: -45px;
                                 }
                                 .k-p {
                                     letter-spacing: 0 !important;
@@ -4852,7 +4857,7 @@
                                 }
                                 .rhgt-p {
                                     font-size: 1.2em;
-                                    margin-top: 20px;                                    
+                                    margin-top: 20px;
                                     text-align: center;
                                     margin-bottom: 12px;
                                 }
@@ -5310,7 +5315,8 @@
                                 line-height: 1.5;
                                 font-family: neris-light;
                             }
-                            .tex{
+
+                            .tex {
                                 font-family: neris-semi;
                             }
 
@@ -5354,8 +5360,10 @@
                                 object-fit: contain;
                                 height: 57px;
                             }
+
                             .read_more {
-                                background-color: #2D2D2D; /* Green */
+                                background-color: #2D2D2D;
+                                /* Green */
                                 border: none;
                                 color: white;
                                 padding: 10px 22px;
@@ -5363,12 +5371,14 @@
                                 text-decoration: none;
                                 display: inline-block;
                                 font-size: 16px;
-                                 cursor: pointer;
-                              }
-                              .hght-100{
+                                cursor: pointer;
+                            }
+
+                            .hght-100 {
                                 height: 100% !important;
                                 -webkit-line-clamp: unset !important;
                             }
+
                             @media(max-width:992px) {
                                 .heading2 {
                                     font-size: 2em;
@@ -5376,32 +5386,38 @@
                                 .about-head::before {
                                     width: 286px !important;
                                     height: 153px !important;
-                                } .contact-head::before {
+                                }
+                                .contact-head::before {
                                     width: 346px !important;
                                     height: 153px !important;
                                 }
-                                .ab-test{
+                                .ab-test {
                                     font-size: 1.3em !important;
                                 }
-                                .ab-test{
+                                .ab-test {
                                     line-height: 2;
                                 }
-                                .phn_text{
-                                  font-size: 1.5em !important;
+                                .phn_text {
+                                    font-size: 1.5em !important;
                                 }
                                 .a-h3 {
                                     margin-bottom: 45px !important;
                                 }
-                                .event-head::before{
+                                .event-head::before {
                                     left: -89px !important;
                                 }
-                                .mbl_view{
+                                .mbl_view {
                                     display: block !important;
                                 }
+                                .font-2{
+                                    font-size: 1.5em !important;
+                                }
                             }
-                            #hgt{
+
+                            #hgt {
                                 height: 100vh;
                             }
+
                             .contact-head {
                                 letter-spacing: 4.39px;
                                 color: #FFFFFF;
@@ -5410,6 +5426,7 @@
                                 font-family: segoe-semi;
                                 font-size: 2em;
                             }
+
                             .contact-head::before {
                                 content: "";
                                 background-color: #070707;
@@ -5425,6 +5442,7 @@
                                 bottom: -21px;
                                 z-index: -1
                             }
+
                             .event-head {
                                 letter-spacing: 4.39px;
                                 color: #FFFFFF;
@@ -5433,6 +5451,7 @@
                                 font-family: segoe-semi;
                                 font-size: 2em;
                             }
+
                             .event-head::before {
                                 content: "";
                                 background-color: #070707;
@@ -5448,6 +5467,7 @@
                                 bottom: -21px;
                                 z-index: -1
                             }
+
                             .mou {
                                 letter-spacing: 10.39px;
                                 color: #FFFFFF;
@@ -5456,7 +5476,7 @@
                                 font-family: segoe-semi;
                                 font-size: 1.6em;
                             }
-                            
+
                             .mou::before {
                                 content: "";
                                 background-color: black;
@@ -5472,14 +5492,19 @@
                                 bottom: -21px;
                                 z-index: -1;
                             }
-                            .sh{
+
+                            .sh {
                                 box-shadow: 0px 1px 18px 0px #c0c0c0;
                             }
-                            @media(min-width:992px)
 
-{
-    .mbl_view{
-        display: none !important;
-    }
-
-}                           
+                            @media(min-width:992px) {
+                                .mbl_view {
+                                    display: none !important;
+                                }
+                            }
+                            .new_h3{
+                                font-family: segoe-semi;
+                            }
+                            .font-2{
+                                font-size: 2em;
+                            }

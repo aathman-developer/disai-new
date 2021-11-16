@@ -26,7 +26,7 @@
         </div>
     </div>
     <!-- text session2 in disai -->
-    <div class="col-12 px-3 mt-lg-4">
+    <div class="col-12 px-3 mt-4 ">
         <div class="d-flex">
             <h1 class="mx-auto font-bold mb-0 font3 heading2">Overview</h1>
         </div>

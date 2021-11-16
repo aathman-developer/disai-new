@@ -35,7 +35,7 @@
 
                             #myVideo {
                                 object-fit: cover;
-                                height: calc(100vh - 90px);
+                                height: calc(100vh - 66px);
                                 position: relative;
                                 top: 0;
                                 left: 0;
@@ -4518,13 +4518,14 @@
                             .about-head::before {
                                 content: "";
                                 background-color: #070707;
+                                box-shadow: 0px 1px 18px 0px #c0c0c0;
                                 opacity: 0.4;
                                 height: 180px;
                                 width: 330px;
                                 position: absolute;
                                 margin-left: auto;
                                 margin-right: auto;
-                                left: -45px;
+                                left: -67px;
                                 right: 0;
                                 bottom: -21px;
                                 z-index: -1
@@ -4809,6 +4810,9 @@
                             }
 
                             @media (max-width: 992px) {
+                                .about-head::before{
+                                    left:-45px;
+                                }
                                 .k-p {
                                     letter-spacing: 0 !important;
                                     font-size: 1.5em !important;
@@ -5382,6 +5386,12 @@
                                 .phn_text{
                                   font-size: 1.5em !important;
                                 }
+                                .a-h3 {
+                                    margin-bottom: 45px !important;
+                                }
+                                .event-head::before{
+                                    left: -89px !important;
+                                }
                             }
                             #hgt{
                                 height: 100vh;
@@ -5397,6 +5407,7 @@
                             .contact-head::before {
                                 content: "";
                                 background-color: #070707;
+                                box-shadow: 0px 1px 18px 0px #c0c0c0;
                                 opacity: 0.4;
                                 height: 180px;
                                 width: 330px;
@@ -5407,4 +5418,51 @@
                                 right: 0;
                                 bottom: -21px;
                                 z-index: -1
+                            }
+                            .event-head {
+                                letter-spacing: 4.39px;
+                                color: #FFFFFF;
+                                text-shadow: 0px 3px 6px #0000002B;
+                                text-transform: uppercase;
+                                font-family: segoe-semi;
+                                font-size: 2em;
+                            }
+                            .event-head::before {
+                                content: "";
+                                background-color: #070707;
+                                box-shadow: 0px 1px 18px 0px #c0c0c0;
+                                opacity: 0.4;
+                                height: 180px;
+                                width: 330px;
+                                position: absolute;
+                                margin-left: auto;
+                                margin-right: auto;
+                                left: -95px;
+                                right: 0;
+                                bottom: -21px;
+                                z-index: -1
+                            }
+                            .mou {
+                                letter-spacing: 10.39px;
+                                color: #FFFFFF;
+                                text-shadow: 0px 3px 6px #0000002B;
+                                text-transform: uppercase;
+                                font-family: segoe-semi;
+                                font-size: 1.6em;
+                            }
+                            
+                            .mou::before {
+                                content: "";
+                                background-color: black;
+                                box-shadow: 0px 1px 18px 0px #c0c0c0;
+                                opacity: 0.4;
+                                height: 180px;
+                                width: 548px;
+                                position: absolute;
+                                margin-left: auto;
+                                margin-right: auto;
+                                left: -18px;
+                                right: 0;
+                                bottom: -21px;
+                                z-index: -1;
                             }

@@ -6,7 +6,7 @@
     <!-- image section1 -->
     <div class="col-12 px-0">
         <div class="col-12 px-0">
-            <img src="assets/images/about.jpeg" id="myVideo" class="w-100">
+            <img src="assets/images/cont.jpg" id="myVideo" class="w-100">
         </div>
         <div class="content d-flex justify-content-center align-items-end">
             <div class="position-relative">

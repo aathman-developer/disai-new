@@ -87,7 +87,7 @@
                                 <h5 class="card-title text-center font-bold">Webinar on Womens’ Day</h5>
                                 <p class="card-text text-center heal-para mb-1">Webinar on Womens’ Day in association with SRM, Ramapuram, Chennai.</p>
                                 <div class="text-center mt-lg-3">
-                                    <a href="{{ url('/about') }}"
+                                    <a href="{{ url('/events') }}"
                                         class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
                                         <button type="button" class="btn  semi_font_bold">View
                                             More</button></a>
@@ -98,13 +98,13 @@
                     <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor">
-                                <img class="card-img-top o-cover c-img" src="assets/images/post2.png">
+                                <img class="card-img-top o-cover c-img" src="assets/images/sec.jpg">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title text-center font-bold">Securing India in Cyber Space</h5>
                                 <p class="card-text text-center heal-para mb-1">Participation as a supporting partner with MMA, Chennai on “Securing India in Cyber Space” on 20 Oct 2021. </p>
                                 <div class="text-center mt-lg-3">
-                                    <a href="{{ url('/about') }}"
+                                    <a href="{{ url('/events') }}"
                                         class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
                                         <button type="button" class="btn  semi_font_bold">View
                                             More</button></a>
@@ -115,13 +115,13 @@
                     <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor c-img">
-                                <img class="card-img-top o-cover h-100" src="assets/images/post3.png">
+                                <img class="card-img-top o-cover h-100" src="assets/images/third.jpg">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title text-center font-bold">Shri Dr.Subramaniam Swamy </h5>
                                 <p class="card-text text-center heal-para mb-1">Webinar on “Digital Security in India” with Dr Subramaniam Swamy on 3 June 2021</p>
                                 <div class="text-center mt-lg-3">
-                                    <a href="{{ url('/about') }}"
+                                    <a href="{{ url('/events') }}"
                                         class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
                                         <button type="button" class="btn  semi_font_bold">View
                                             More</button></a>

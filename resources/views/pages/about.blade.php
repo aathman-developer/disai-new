@@ -21,7 +21,7 @@
     <div class="col-12 mt-2 mt-lg-5">
         <div class="container">
             <p class="mb-0 about-p text-center">
-                With these as the long term Vision and immediate Mission as our objectives, DiSAI was
+                With the long term Vision and immediate Mission as our objectives, DiSAI was
                 founded on 17 November 2017, registered as a Public charitable Trust in the Sub Registrar,
                 Chennai South – T Nagar. And has been functioning successfully discharging its duties in its
                 avowed mission of creating awareness among the public in the area of IT Laws, cyber crimes,
@@ -47,7 +47,7 @@
             <!-- <h3 class="archite text-center">Disai</h3> -->
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Shri</h1>
                         <h1 class="text-center ab-test"> V.Rajendran</h1>
                     </div>
@@ -74,7 +74,7 @@
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Prof. Dr</h1>
                         <h1 class="text-center ab-test"> R.Jagannathan</h1>
                     </div>
@@ -89,12 +89,12 @@
                             June 2021 when he opted out.
                         </p>                     
                     </div>
-                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
+                    <button class="read_more d-flex ml-auto m-3 ">Read More</button>
                 </div>
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Shri PrimePoint</h1>
                         <h1 class="text-center ab-test"> Srinivasan</h1>
                     </div>
@@ -115,7 +115,7 @@
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Shri</h1>
                         <h1 class="text-center ab-test">U.P.Prakasham</h1>
                     </div>
@@ -136,7 +136,7 @@
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Ramesh Sethuraman</h1>
                     </div>
                 </div>
@@ -149,12 +149,12 @@
                             areas.
                         </p>                      
                     </div>
-                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
+                    <button class="read_more d-flex ml-auto m-3 ">Read More</button>
                 </div>
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Dr.</h1>
                         <h1 class="text-center ab-test">B.Muthukumaran</h1>
                     </div>
@@ -175,7 +175,7 @@
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-5 my-lg-0">
+                    <div class="mx-5 my-3 my-lg-0">
                         <h1 class="text-center ab-test">Shri</h1>
                         <h1 class="text-center ab-test">M.J.Logesh Babu</h1>
                     </div>
@@ -191,7 +191,7 @@
                             the Zonal Head of Asian School of Cyber Laws and.
                         </p>
                     </div>
-                    <button class="read_more d-flex ml-auto m-3 mbl_view">Read More</button>
+                    <button class="read_more d-flex ml-auto m-3 ">Read More</button>
                 </div>
             </div>
         </div>

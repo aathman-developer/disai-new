@@ -4,7 +4,7 @@
 @section('content')
 <div class="col-12">
     <div class="d-flex justify-content-center align-items-center" id="hgt">
-       <h1 class="font-bold font3 heading2">Coming Soon</h1>
+       <h1 class="font-bold font3 heading2">Being Updated</h1>
     </div>
 </div>
 @include('includes.footer')

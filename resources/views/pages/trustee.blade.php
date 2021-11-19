@@ -44,9 +44,9 @@
             </p>
         </div>
         <div class="my-3 my-lg-5">
-            <h3 class="new_h3">President</h3>
+            <!-- <h3 class="new_h3">President</h3> -->
             <p class="about_p">
-                <span class="quest">Shri Dr.R. Jagannathan</span>
+                <span class="quest">Dr.R. Jagannathan</span>
                 is a well-known academician and educationist. He was the Vice Chancellor of Middle
                 East University (UAE) and American Medical University (West Indies). He is the President of the Sethu
                 Bhaskara Group of Educational Institutions. He is a visiting Professor to many International
@@ -80,10 +80,10 @@
         <div class="my-3 my-lg-5">
             <h3 class="new_h3">Treasurer</h3>
             <p class="about_p">
-                <span class="quest">Shri Smt Rashmi Shanker</span>
+                Smt Rashmi Shanker
                 is an expert in the area of social networking site and blogging and is a content
                 writer with rich experience in blogging and documentation. She was the first Treasurer of DiSAI.
-                Shri Ramesh Bhashyam is an IT professional and information security consultant, coming with a rich
+               <span class="quest">Shri Ramesh Bhashyam</span> is an IT professional and information security consultant, coming with a rich
                 experience of around three decades in the various areas of IT including software development, testing,
                 integration and overall management, with around 7 years in the US. He is now the Treasurer.
             </p>
@@ -114,7 +114,7 @@
                 company taking care of designing courses on information security, digital forensics, cyber laws etc.
             </p>
             <p class="about_p">
-                <span class="quest">Shri Smt R. Pratyusha</span>
+                <span class="quest">Smt R. Pratyusha</span>
                  is an engineering graduate from a reputed University and with around 6 years of industry
                 experience in the area of information security having represented the company in many international
                 conferences and seminars. She is a CISA by qualification and as a member of the ISACA, is passionate in
@@ -129,7 +129,7 @@
                 CEO, Ascentya Research & Development Solutions P Ltd. Chennai.
             </p>
             <p class="about_p">
-                <span class="quest">Shri Smt S. Panchi</span>
+                <span class="quest">Smt S. Panchi</span>
                 CEO, YesPanchi Techservices P Ltd, Chennai.
             </p>
         </div>

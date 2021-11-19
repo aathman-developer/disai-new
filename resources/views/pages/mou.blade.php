@@ -18,10 +18,10 @@
     </div>
     <div class="container mt-3">
         <p class="about_p py-lg-2">
-            DiSAI has signed an MoU for student chapter with SRM Institute of Science and Technology, Ramapuram, Chennai
+            DiSAI has signed an MOU for student chapter with SRM Institute of Science and Technology, Ramapuram, Chennai
             Srimad Andavar Arts and Science College, Tiruchirapalli.</p>
 
-        <p class="about_p py-lg-2">Plans are afoot for organizing conferences and seminars on a regular basis focusing
+        <p class="about_p py-lg-2">Plans are a foot for organizing conferences and seminars on a regular basis focusing
             on Digital Security, Cyber
             Crimes, IT Laws and related areas not only in Chennai but also in other cities, mainly urban and semi urban
             towns

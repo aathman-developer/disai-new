@@ -1,6 +1,6 @@
 <div class="container-fluid footer_bg footer pt-3 px-3 px-lg-5">
-    <div class="d-flex px-lg-5 row mt-3 mt-lg-5">
-        <div class="col-md-6 mt-lg-3 d-flex align-items-end">
+    <div class="d-flex px-lg-5 row mt-lg-5">
+        <div class="col-md-6 mt-lg-3 d-flex align-items-end justify-content-center justify-content-lg-start">
             <div class="d-flex row m-0 res-cen">
                 <div class="text-left res-text">
                     <!-- <div class=" mx-lg-2">
@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class="col-md-6 px-lg-0">
-            <div class="d-flex justify-content-end res-cen mb-lg-4 pr-lg-4">
+            <div class="d-flex justify-content-end res-cen mb-4 mb-lg-4 pr-lg-4">
                 <img src="assets/images/face.png" class="px-2">
                 <img src="assets/images/insta.png" class="px-2">
                 <img src="assets/images/link.png" class="px-2">

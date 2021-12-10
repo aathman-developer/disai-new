@@ -82,15 +82,15 @@
     <div class="modal-fixed d-none"></div>
     <ul class="navbar-side d-lg-none" id="navbarSide">
         <li class="navbar-side-item p-2">
-            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == '/')?'primary-text-color':'text-muted' }}"
+            <a class="nav-link font-9 mixed-side text-muted semi_bold_font text-uppercase {{ (Route::current()->uri() == '/')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/') }}" title="Home">Home</a>
         </li>
         <li class="navbar-side-item position-relative p-2">
-            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'about')?'primary-text-color':'text-muted' }}"
+            <a class="nav-link font-9 mixed-side text-muted semi_bold_font text-uppercase {{ (Route::current()->uri() == 'about')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/about') }}" title="About US">About US</a>
         </li>
         <li class="navbar-side-item p-2">
-            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'management_team')?'primary-text-color':'text-muted' }}"
+            <a class="nav-link font-9 mixed-side text-muted semi_bold_font text-uppercase {{ (Route::current()->uri() == 'management_team')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/management_team') }}" title="Management Team">Management Team</a>
         </li>
         <!-- <li class="navbar-side-item p-2">
@@ -98,7 +98,7 @@
                 href="{{ url('/committee') }}" title="COMMITTEE">COMMITTEE</a>
         </li> -->
         <li class="navbar-side-item p-2">
-            <a class="nav-link font-9 mixed-side semi_bold_font text-uppercase {{ (Route::current()->uri() == 'mou')?'primary-text-color':'text-muted' }}"
+            <a class="nav-link font-9 mixed-side text-muted semi_bold_font text-uppercase {{ (Route::current()->uri() == 'mou')?'primary-text-color':'text-muted' }}"
                 href="{{ url('/mou') }}" title="MOU & COLLABORATION">MOU & COLLABORATION</a>
         </li>
 

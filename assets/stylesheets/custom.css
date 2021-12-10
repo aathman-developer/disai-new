@@ -888,7 +888,13 @@
 
                             .heading2 {
                                 font-family: segoe-bold;
-                                text-transform: capitalize;
+                                text-transform: capitalize;                                
+                            }
+                            @media(max-width:992px)
+                            {
+                                .heading2 {
+                                 font-size: 1.3em !important;
+                                }
                             }
 
                             .menu_h4 {

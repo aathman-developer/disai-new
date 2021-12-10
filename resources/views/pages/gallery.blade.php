@@ -91,8 +91,8 @@
             </div>
         </div>
     </main>
-    <div class="d-flex py-lg-5">
-        <h1 class="mx-auto font-bold mb-0 heading2">Naavi Crypto currency Screenshots Webinar</h1>
+    <div class="d-flex py-lg-5 py-3">
+        <h1 class="mx-auto font-bold text-center mb-0 heading2">Naavi Crypto currency Webinar</h1>
     </div>
     <main class="main">
         <div class="container">

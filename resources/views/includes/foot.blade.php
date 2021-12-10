@@ -84,7 +84,7 @@ var segment_url = "@php echo $segment_url @endphp";
 @endif
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122648392-2"></script>
-<script type="text/javascript" src="{{url('assets/scripts/custom.js')}}"></script>
+<script type="text/javascript" src="{{url('assets/scripts/custom.js?v=1')}}"></script>
   
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">

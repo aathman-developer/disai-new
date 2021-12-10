@@ -4,7 +4,7 @@
 @section('content')
 <div class="col-12 px-0">
     <!-- image section1 -->
-    <div class="col-12 px-0">
+    <!-- <div class="col-12 px-0">
         <div class="col-12 px-0">
             <img src="assets/images/cont.jpg" id="myVideo" class="w-100">
         </div>
@@ -13,23 +13,73 @@
                 <div class="contact-head mb-lg-5">
                     <h3 class="a-h3">Contact us</h3>
                 </div>
-                <!-- <div class="about-bg"></div> -->
+                <div class="about-bg"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- further enquery -->
-    <div class="col-12   animated animatedParent">
+    <div class="col-12 my-lg-5">
         <div class="container py-3">
             <div class="sh p-4">
                 <h3 class="phn_text gradient-form text-center">For enquiries regarding membership kindly email<br>
-                  <span class="tex">  info@disai.in or
-                    disai.india@gmail.com</span> <br>or
-                    contact the Chairman or the Secretary.</h3>
+                    <span class="tex"> info@disai.in</span> or
+                    <span class="tex">info@disai.com </span> or <span class="tex"> Chairman@disai.com</span> <br>or
+                    contact the Chairman or the Secretary.
+                </h3>
                 <h3 class="phn_text gradient-form text-center mt-3">
                     For organizing events and workshop related activities
                     please contact Shri C. Badri, Chairman, Events Committee (formerly General Manager and
                     Chief Vigilance Officer, Indian Overseas Bank and formerly General Manager, Canara
                     Bank),<span class="tex"> Mobile No. 9840504327</span><br> or the Chairman / Secretary.</h3>
+                <div class="col-12 mt-lg-5 px-0 px-lg-5">
+                    <div class="row m-0 justify-content-center">
+                        <div class="col-md-4 mt-2 mt-lg-0">
+                            <div class="card card-shadow b_r border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title text-center font-bold">V. Rajendran</h5>
+                                    <p class="text-center heal-para mb-1"> Chairman</p>
+                                    <p class="text-center heal-para mb-1">+91 9444073849 or +91 7358473849</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mt-2 mt-lg-0">
+                            <div class="card card-shadow b_r border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title text-center font-bold">Ramesh Sethuraman</h5>
+                                    <p class="text-center heal-para mb-1"> Secretary</p>
+                                    <p class="text-center heal-para mb-1">+91 99622009966</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mt-2 mt-lg-0">
+                            <div class="card card-shadow b_r border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title text-center font-bold">M.J. Logesh Babu</h5>
+                                    <p class="text-center heal-para mb-1"> Joint Secretary </p>
+                                    <p class="text-center heal-para mb-1">+91 98416 64760</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mt-2 mt-lg-3">
+                            <div class="card card-shadow b_r border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title text-center font-bold">Ramesh Bhashyam</h5>
+                                    <p class="text-center heal-para mb-1"> Treasurer </p>
+                                    <p class="text-center heal-para mb-1">+91 99406 24240</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mt-2 mt-lg-3">
+                            <div class="card card-shadow b_r border-0">
+                                <div class="card-body">
+                                    <h5 class="card-title text-center font-bold">C.Badri</h5>
+                                    <p class="text-center heal-para mb-1"> Events Management Committee </p>
+                                    <p class="text-center heal-para mb-1">+91 98405 04327</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>             
             </div>
         </div>
     </div>

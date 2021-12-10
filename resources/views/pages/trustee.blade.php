@@ -3,7 +3,7 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 px-0">
-    <div class="col-12 px-0">
+    <!-- <div class="col-12 px-0">
         <div class="col-12 px-0">
             <img src="assets/images/c2.jpg" id="myVideo" class="w-100">
         </div>
@@ -12,10 +12,10 @@
                 <div class="mou lef mb-lg-5">
                     <h3 class="a-h3 pl-lg-5">MANAGEMENT TEAM</h3>
                 </div>
-                <!-- <div class="about-bg"></div> -->
+                 <div class="about-bg"></div> 
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="col-12 px-3 mt-4 ">
         <div class="d-flex">
             <h1 class="mx-auto font-bold mb-0 font3 heading2">Trustees</h1>

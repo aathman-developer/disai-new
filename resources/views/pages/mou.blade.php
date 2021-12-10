@@ -3,7 +3,7 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 px-0">
-    <div class="col-12 px-0">
+    <!-- <div class="col-12 px-0">
         <div class="col-12 px-0">
             <img src="assets/images/lock.jpg" id="myVideo" class="w-100">
         </div>
@@ -12,22 +12,22 @@
                 <div class="mou lef mb-lg-5">
                     <h3 class="a-h3">MOU & COLLABORATION</h3>
                 </div>
-                <!-- <div class="about-bg"></div> -->
+                 <div class="about-bg"></div>
             </div>
         </div>
-    </div>
-    <div class="container my-3">
-        <p class="about_p py-lg-2">
+    </div> -->
+    <div class="container my-3 hgt_100vh py-lg-5">
+        <p class="about_p py-2">
             DiSAI has signed an MOU for student chapter with SRM Institute of Science and Technology, Ramapuram, Chennai
             Srimad Andavar Arts and Science College, Tiruchirapalli.</p>
 
-        <p class="about_p py-lg-2">Plans are a foot for organizing conferences and seminars on a regular basis focusing
+        <p class="about_p py-2">Plans are a foot for organizing conferences and seminars on a regular basis focusing
             on Digital Security, Cyber
             Crimes, IT Laws and related areas not only in Chennai but also in other cities, mainly urban and semi urban
             towns
             and cities in Tamil Nadu, to begin with.</p>
 
-        <p class="about_p py-lg-2">Besides, DiSAI also plans to start student chapters in many colleges and universities
+        <p class="about_p py-2">Besides, DiSAI also plans to start student chapters in many colleges and universities
             in different towns in Tamil
             Nadu in the near future and later, in the long run in cities outside Tamil Nadu too.</p>
     </div>

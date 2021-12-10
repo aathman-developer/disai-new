@@ -3,7 +3,7 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 px-0">
-    <div class="col-12 px-0">
+    <!-- <div class="col-12 px-0">
         <div class="col-12 px-0">
             <img src="assets/images/new.png" id="myVideo" class="w-100">
         </div>
@@ -12,10 +12,10 @@
                 <div class="event-head lef mb-lg-5">
                     <h3 class="a-h3">Events</h3>
                 </div>
-                <!-- <div class="about-bg"></div> -->
+                <div class="about-bg"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="container">
         <div class="col-12 px-3 my-2 my-lg-4">
             <div class="d-flex">

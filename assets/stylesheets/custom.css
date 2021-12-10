@@ -5576,7 +5576,16 @@
     grid-template-columns: 1fr;
     grid-gap: 1rem;
   }
+  .hgt_100vh{
+    height: unset !important;
+}
 }
 .fancybox-caption {
 display: none;
+}
+.hgt_100vh{
+    height: calc(100vh - 326px);
+}
+.b_r{
+    border-radius: 14px;
 }

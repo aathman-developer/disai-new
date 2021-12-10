@@ -77,7 +77,7 @@ scrollcHeader=true;
 </script>
 <link rel="stylesheet" href="{{url('assets/stylesheets/owl.carousel.css')}}">
 <link rel="stylesheet" href="{{url('assets/stylesheets/owl.theme.default.css')}}">
-<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/custom.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/custom.css?v=1')}}" />
 <link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/slick.css')}}" />
 <link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/fancybox.css')}}" />
 

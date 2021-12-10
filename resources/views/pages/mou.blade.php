@@ -16,7 +16,7 @@
             </div>
         </div>
     </div>
-    <div class="container mt-3">
+    <div class="container my-3">
         <p class="about_p py-lg-2">
             DiSAI has signed an MOU for student chapter with SRM Institute of Science and Technology, Ramapuram, Chennai
             Srimad Andavar Arts and Science College, Tiruchirapalli.</p>

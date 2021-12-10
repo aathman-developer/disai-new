@@ -3,24 +3,11 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 px-0">
-    <!-- image section1 -->
-    <div class="col-12 px-0">
-        <div class="col-12 px-0">
-            <img src="assets/images/about.jpeg" id="myVideo" class="w-100">
-        </div>
-        <div class="content d-flex justify-content-center align-items-end">
-            <div class="position-relative">
-                <div class="about-head mb-lg-5">
-                    <h3 class="a-h3">About us</h3>
-                </div>
-                <!-- <div class="about-bg"></div> -->
-            </div>
-        </div>
-    </div>
+
     <!-- section 2 about heading -->
     <div class="col-12 mt-2 mt-lg-5">
         <div class="container">
-            <p class="mb-0 about-p text-center">
+            <p class="mb-0 about-p text-center font-s">
                 With the long term Vision and immediate Mission as our objectives, DiSAI was
                 founded on 17 November 2017, registered as a Public charitable Trust in the Sub Registrar,
                 Chennai South – T Nagar. And has been functioning successfully discharging its duties in its
@@ -48,12 +35,14 @@
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
                     <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Shri</h1>
-                        <h1 class="text-center ab-test"> V.Rajendran</h1>
+                        <h1 class="text-center ab-test">Shri V.Rajendran</h1>
+                        <div class="d-flex justify-content-center">
+                            <img src="assets/images/raj.jpg" class="raj_img">
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Shri V. Rajendran, a banker turned cyber law advocate and information security consultant,
                             is the Founder and Chairman of DiSAI. He comes with around 30 years experience in the
@@ -75,32 +64,32 @@
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
                     <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Prof. Dr</h1>
-                        <h1 class="text-center ab-test"> R.Jagannathan</h1>
+                        <h1 class="text-center ab-test">Prof.Dr.R.Jagannathan</h1>
+                        <!-- <h1 class="text-center ab-test"></h1> -->
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Prof. Dr R. Jagannathan, Editorial Advisor of PreSense, and former Vice-Chancellor of the
                             Middle East University UAE, and the American Medical University and currently ProVost,
                             St Theresa University, West Indies, was the President of DiSAI from its registration and
                             until
                             June 2021 when he opted out.
-                        </p>                     
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3 ">Read More</button>
                 </div>
             </div>
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
-                    <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Shri PrimePoint</h1>
-                        <h1 class="text-center ab-test"> Srinivasan</h1>
+                    <div class="my-3 my-lg-0">
+                        <h1 class="text-center ab-test">Shri PrimePoint Srinivasan</h1>
+                        <!-- <h1 class="text-center ab-test"> Srinivasan</h1> -->
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Shri PrimePoint Srinivasan founder of PrimePoint Foundation (hyperlink) with its
                             associated organisations, and other cyber security professionals with decades of experience
@@ -116,12 +105,12 @@
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
                     <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Shri</h1>
-                        <h1 class="text-center ab-test">U.P.Prakasham</h1>
+                        <h1 class="text-center ab-test">Shri U.P.Prakasham</h1>
+                        <!-- <h1 class="text-center ab-test">U.P.Prakasham</h1> -->
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Shri U.P. Prakasham is a founder trustee and the first Vice President, is an alumnus of the
                             prestigious A.C. College of Technology, Guindy, Chennai a premier engineering institution
@@ -141,13 +130,13 @@
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Ramesh Sethuraman is the founder-Secretary and a committed member of DiSAI. He is a
                             director level official in a major IT MNC and comes with around 20+ years experience in the
                             entire gamut of IT operations globally, including especially the cyber security and related
                             areas.
-                        </p>                      
+                        </p>
                     </div>
                     <button class="read_more d-flex ml-auto m-3 ">Read More</button>
                 </div>
@@ -155,12 +144,12 @@
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
                     <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Dr.</h1>
-                        <h1 class="text-center ab-test">B.Muthukumaran</h1>
+                        <h1 class="text-center ab-test">Dr.B.Muthukumaran</h1>
+                        <!-- <h1 class="text-center ab-test">B.Muthukumaran</h1> -->
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Dr. B. Muthukumaran, is a passionate networking and cyber security professional coming
                             with around two decades of academic experience and more than 15 years of industry
@@ -176,12 +165,14 @@
             <div class="d-flex row mx-1 my-5 my-lg-5">
                 <div class="col-md-4 d-flex justify-content-center align-items-center py-md-3 px-0 bg-logo">
                     <div class="mx-5 my-3 my-lg-0">
-                        <h1 class="text-center ab-test">Shri</h1>
-                        <h1 class="text-center ab-test">M.J.Logesh Babu</h1>
+                        <h1 class="text-center ab-test">Shri M.J.Logesh Babu</h1>
+                        <div class="d-flex justify-content-center">
+                            <img src="assets/images/logesh.jpeg" class="raj_img">
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-8 px-0 rght-bg">
-                    <div class="py-2 px-2 px-lg-5 py-lg-4">
+                    <div class="py-2 px-2 px-lg-5">
                         <p class="rhgt-p">
                             Shri M.J. Logesh Babu the Joint Secretary is an advocate practising in the area of cyber
                             laws

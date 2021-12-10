@@ -4611,11 +4611,11 @@
                                 letter-spacing: 0.88px;
                                 color: #242424;
                                 font-family: segoe;
-                                font-size: 1.3em;
+                                font-size: 1.2em;
                                 display: block;
                                 display: -webkit-box;
                                 max-width: 100%;
-                                height: 69px;
+                                height: 63px;
                                 margin: 0 auto;
                                 -webkit-line-clamp: 2;
                                 -webkit-box-orient: vertical;
@@ -5312,7 +5312,7 @@
                             .gradient-form {
                                 letter-spacing: 0px;
                                 /* color: #FFFFFF; */
-                                font-size: 2em;
+                                font-size: 1.5em;
                                 line-height: 1.5;
                                 font-family: neris-light;
                             }
@@ -5355,6 +5355,7 @@
                             .about_p {
                                 font-family: segoe-light;
                                 font-size: 1.2em;
+                                margin-bottom: 0;
                             }
 
                             .how-im {
@@ -5364,14 +5365,13 @@
 
                             .read_more {
                                 background-color: #2D2D2D;
-                                /* Green */
                                 border: none;
                                 color: white;
-                                padding: 6px 15px;
+                                padding: 2px 10px;
                                 text-align: center;
                                 text-decoration: none;
                                 display: inline-block;
-                                font-size: 16px;
+                                font-size: 14px;
                                 cursor: pointer;
                             }
 
@@ -5510,3 +5510,67 @@
                             .font-2{
                                 font-size: 1.8em;
                             }
+                        .font-s
+                        {
+                            font-size: 1.2em !important;
+                        }
+                        .raj_img{
+                            height: 130px;
+                            object-fit: contain;
+                            border-radius: 10px;
+                        }
+                         /*gallery page*/
+                         *,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  list-style-type: none;
+  text-decoration: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.main .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.main .card {
+  color: #252a32;
+  border-radius: 2px;
+  background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+}
+.main .card-image {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-top: 70%;
+  background: #ffffff;
+}
+.main .card-image img {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 600px) {
+  .main .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1rem;
+  }
+}
+.fancybox-caption {
+display: none;
+}

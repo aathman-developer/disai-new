@@ -79,9 +79,8 @@ scrollcHeader=true;
 <link rel="stylesheet" href="{{url('assets/stylesheets/owl.theme.default.css')}}">
 <link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/custom.css')}}" />
 <link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/slick.css')}}" />
-<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/animate.css')}}" />
-<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/lightgallery.css')}}" />
-<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/selectize.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{url('assets/stylesheets/fancybox.css')}}" />
+
     
 
 

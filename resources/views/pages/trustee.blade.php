@@ -92,20 +92,20 @@
             <h5 class="font-bold mb-0 font-2 heading2">Other Trustees</h5>
         </div>
         <div class="my-3 my-lg-5">
-            <p class="about_p">
+            <p class="about_p mb-2">
                 <span class="quest">Shri M.J Logesh Babu</span>
                 is the Joint Secretary. He is a cyber law advocate by profession and the Zonal Head
                 of Asian School of Cyber Laws. He is a trainer and a techno-legal expert having handled training
                 sessions in critical academic institutions like the Police Academy and other organisations.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Shri K Srinivasan</span>
                 is a former banker, mentor and trainer in communication related areas and is the
                 founder of Prime Point Foundation which has instituted Sansad Ratna awards. He is the Publisher and Mg.
                 Editor of eMagazine PreSense. He is the Convenor of Educational Loan Task Force (ELTF) and Chairman of
                 Digital Journalists Association of India (DiJAI). He was a trustee till June 2021.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Shri Dr.B. Muthukumaran</span>
                 is an information security professional with around 15 years experience in the
                 industry and another 15 years experience in the academic area of information security. He has many
@@ -113,22 +113,22 @@
                 security, network security etc. He is the in charge of the training division of a major multinational
                 company taking care of designing courses on information security, digital forensics, cyber laws etc.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Smt R. Pratyusha</span>
                  is an engineering graduate from a reputed University and with around 6 years of industry
                 experience in the area of information security having represented the company in many international
                 conferences and seminars. She is a CISA by qualification and as a member of the ISACA, is passionate in
                 the area of information security and audit.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Shri C. Badri</span>
                 former General Manager Canara Bank, former General Manager and Chief Vigilance Officer, Indian Overseas Bank.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Shri Dr.Gopikrishna Santhanam</span>
                 CEO, Ascentya Research & Development Solutions P Ltd. Chennai.
             </p>
-            <p class="about_p">
+            <p class="about_p my-3">
                 <span class="quest">Smt S. Panchi</span>
                 CEO, YesPanchi Techservices P Ltd, Chennai.
             </p>

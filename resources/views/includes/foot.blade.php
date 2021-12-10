@@ -12,11 +12,11 @@
   <!-- <script type="text/javascript" src="{{url('assets/scripts/lightgallery.min.js')}}"></script> -->
   <!-- <script type="text/javascript" src="{{url('assets/scripts/thumbnail.min.js')}}"></script> -->
   <!-- <script type="text/javascript" src="{{url('assets/scripts/fullscreen.min.js')}}"></script> -->
+  <script type="text/javascript" src="{{url('assets/scripts/fancybox.js')}}"></script>
 
 <script type="text/javascript" src="{{url('assets/scripts/loader_anime.js')}}"></script>
 <script type="text/javascript" src="{{url('assets/scripts/owl.carousel.js')}}"></script>
 <script type="text/javascript" src="{{url('assets/scripts/slick.min.js')}}"></script>
-<!-- <script type="text/javascript" src="{{url('assets/scripts/selectize.js')}}"></script> -->
 <?php if(Request::segment(1) == "technologies"){?>
 <script type="text/javascript" src="{{url('assets/scripts/materialize.js')}}"></script>
 <link rel="stylesheet" href="{{url('assets/stylesheets/materialize.css')}}">

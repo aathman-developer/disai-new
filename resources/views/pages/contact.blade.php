@@ -18,7 +18,7 @@
         </div>
     </div> -->
     <!-- further enquery -->
-    <div class="col-12 my-lg-5">
+    <div class="col-12">
         <div class="container py-3">
             <div class="sh p-4">
                 <h3 class="phn_text gradient-form text-center">For enquiries regarding membership kindly email<br>

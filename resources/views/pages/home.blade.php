@@ -4,7 +4,7 @@
 @section('content')
 <div class="col-12 px-0">
     <!-- image section -->
-    <div class="col-12 px-0">
+    {{-- <div class="col-12 px-0">
         <div class="col-12 px-0 owl-carousel owl-theme image_slide2 bg-head-img">
             <div class="overflow-hidden">
                 <img src="assets/images/about.jpeg" id="myVideo" class="w-100 zoom">
@@ -24,15 +24,15 @@
                 <!-- <h1 class="disai-head">Disai Disai Disai</h1> -->
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- text session2 in disai -->
-    <div class="col-12 px-3 mt-4 ">
+    <div class="col-12 px-3 my-2">
         <div class="d-flex">
             <h1 class="mx-auto font-bold mb-0 font3 heading2">Overview</h1>
         </div>
     </div>
-    <div class="col-12 px-3 text-center py-3">
-        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+    <div class="col-12 px-3 text-center mb-lg-4 mb-3">
+        <p class="well-p px-0 px-md-5 mb-0">
             <span class="font_bold pr-2">Digital Security Association of India</span>(DiSAI) is a non-profit NGO
             registered as a public
             trust to create awareness on digital security. DiSAI was originally started as the fourth
@@ -45,38 +45,38 @@
             PrimePoint Foundation.
         </p>
     </div>
-    <div class="col-12 px-3 mt-lg-4">
+    <div class="col-12 px-3 my-2">
         <div class="d-flex">
             <h1 class="mx-auto font-bold mb-0 font3 heading2">Vision</h1>
         </div>
     </div>
-    <div class="col-12 px-3 text-center py-3">
-        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+    <div class="col-12 px-3 text-center mb-lg-4 mb-3">
+        <p class="well-p px-0 px-md-5 mb-0">
         To strive ceaselessly in creating a digitally secure society in India.
         </p>
     </div>
-    <div class="col-12 px-3 mt-lg-4">
+    <div class="col-12 px-3 my-2">
         <div class="d-flex">
             <h1 class="mx-auto font-bold mb-0 font3 heading2">Mission</h1>
         </div>
     </div>
-    <div class="col-12 px-3 text-center py-3">
-        <p class="well-p px-0 px-md-5 mb-0 py-lg-2">
+    <div class="col-12 px-3 text-center mb-lg-4 mb-3">
+        <p class="well-p px-0 px-md-5 mb-0">
         To create awareness in the society on the various components of digital security.
         </p>
     </div>
     <!-- session3 in disai -->
     <!-- doctor section -->
     <div class="col-12 p-0 mb-lg-4">
-        <div class="mt-lg-5">
+        <div class="my-2">
             <div class="col-12 px-3">
                 <div class="d-flex">
                     <h1 class="mx-auto font-bold mb-0 font3 heading2">DISAI</h1>
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="col-12 py-md-5 py-3">
+        <div class="container mt-3">
+            <div class="col-12">
                 <div class="d-flex row m-0 doctors_card">
                     <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">

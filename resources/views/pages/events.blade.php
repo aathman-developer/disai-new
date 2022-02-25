@@ -127,7 +127,7 @@
             4 PM.
         </p>
         <p class="about_p py-2">
-            One Day Woriskhop in Jan 2018 on “Digital Security” in Raman Auditorium, Anna University Campus, Chennai.
+            One Day Workskhop in Jan 2018 on “Digital Security” in Raman Auditorium, Anna University Campus, Chennai.
             Hon’ble Justice C.V. Karthikeyan, Judge Madras High Court was the Chief Guest. Dr C. Sylendra Babu, I.P.S.,
             Addl Director General of Police delivered the valedictory address at 4 PM.
         </p>

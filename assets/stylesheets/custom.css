@@ -46,7 +46,8 @@
                             }
 
                             .well-p {
-                                font-size: 1.5em;
+                                font-size: 1.1em;
+                                font-family: segoe-light;
                             }
 
                             .view_more {
@@ -57,7 +58,7 @@
                             }
 
                             .font3 {
-                                font-size: 3em;
+                                font-size: 1.5em;
                             }
 
                             .font2 {
@@ -247,7 +248,7 @@
                                 }
                                 .font3 {
                                     text-align: center;
-                                    font-size: 2em !important;
+                                    font-size: 1.5em !important;
                                 }
                                 .f4em {
                                     text-align: center;
@@ -294,7 +295,7 @@
                                     font-family: segoe-semi;
                                 }
                                 .well-p {
-                                    font-size: 1.2em;
+                                    font-size: 1em;
                                     font-family: segoe;
                                 }
                                 .image_grid {
@@ -4156,7 +4157,7 @@
                             }
 
                             .card-title {
-                                font-family: neris-semi;
+                                font-family: segoe-semi;
                             }
 
                             .round-head {
@@ -4177,7 +4178,7 @@
                                 overflow: hidden;
                                 -webkit-line-clamp: 6;
                                 max-height: 8.4rem;
-                                font-family: neris-light;
+                                font-family: segoe-light;
                                 min-height: 71px;
                             }
 
@@ -4616,7 +4617,7 @@
                             .rhgt-p {
                                 letter-spacing: 0.88px;
                                 color: #242424;
-                                font-family: segoe;
+                                font-family: segoe-light;
                                 font-size: 1.2em;
                                 display: block;
                                 display: -webkit-box;
@@ -5318,9 +5319,9 @@
                             .gradient-form {
                                 letter-spacing: 0px;
                                 /* color: #FFFFFF; */
-                                font-size: 1.5em;
+                                font-size: 1.2em;
                                 line-height: 1.5;
-                                font-family: neris-light;
+                                font-family: segoe-light;
                             }
 
                             .tex {
@@ -5328,7 +5329,7 @@
                             }
 
                             .fonttype {
-                                font-family: neris-light;
+                                font-family: segoe-light;
                                 font-size: 1.6em;
                                 letter-spacing: 0px;
                                 color: #FFFFFF;

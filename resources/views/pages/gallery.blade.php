@@ -89,6 +89,62 @@
                     </a>
                 </div>
             </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img1.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img1.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img2.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img2.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img3.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img3.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img4.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img4.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img5.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img5.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img6.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img6.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img7.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img7.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/new_img8.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img8.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
         </div>
     </main>
     <div class="d-flex py-lg-5 py-3">

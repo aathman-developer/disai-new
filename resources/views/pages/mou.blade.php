@@ -2,21 +2,14 @@
 <!DOCTYPE html>
 <title>Disai</title>
 @section('content')
-<div class="col-12 px-0">
-    <!-- <div class="col-12 px-0">
-        <div class="col-12 px-0">
-            <img src="assets/images/lock.jpg" id="myVideo" class="w-100">
-        </div>
-        <div class="content d-flex justify-content-center align-items-end">
-            <div class="position-relative">
-                <div class="mou lef mb-lg-5">
-                    <h3 class="a-h3">MOU & COLLABORATION</h3>
-                </div>
-                 <div class="about-bg"></div>
-            </div>
-        </div>
-    </div> -->
-    <div class="container my-3 hgt_100vh py-lg-5">
+<div class="col-12 px-0">    
+    <div class="container my-3">
+        <p class="about_p py-2">
+            Signed MoU with the Post Graduate and Research Department of Commerce of Anna Adarsh College for Women, Anna Nagar, Chennai, in November 2021. 
+        </p>
+        <p class="about_p my-2">
+            Signed MoU with Srimad Andavar College of Arts and College, Srirangam, Trichy for conducting regular programmes on Cyber Security, IT Laws and related areas. 
+        </p>
         <p class="about_p py-2">
             DiSAI has signed an MOU for student chapter with SRM Institute of Science and Technology, Ramapuram, Chennai
             Srimad Andavar Arts and Science College, Tiruchirapalli.</p>

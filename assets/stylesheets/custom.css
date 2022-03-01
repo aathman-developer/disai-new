@@ -5590,3 +5590,6 @@ display: none;
 .b_r{
     border-radius: 14px;
 }
+.hgt_100{
+    height: calc(100vh - 73px);
+}

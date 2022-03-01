@@ -132,6 +132,9 @@
                 <span class="quest">Smt S. Panchi</span>
                 CEO, YesPanchi Techservices P Ltd, Chennai.
             </p>
+            <p class="about_p my-3">
+                “To get the complete profile of Smt S Panchi, please visit <a href="https://www.yespanchi.tech/" target="_blank">https://www.yespanchi.tech/</a> 
+            </p>
         </div>
     </div>
 </div>

@@ -91,8 +91,8 @@
             </div>
             <div class="card">
                 <div class="card-image">
-                    <a href="assets/images/new_img1.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                        <img src="assets/images/new_img1.png" alt="Image Gallery">
+                    <a href="assets/images/new_img1.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img1.jpeg" alt="Image Gallery">
                     </a>
                 </div>
             </div>
@@ -136,12 +136,12 @@
                     <a href="assets/images/new_img7.png" data-fancybox="gallery" data-caption="Caption Images 1">
                         <img src="assets/images/new_img7.png" alt="Image Gallery">
                     </a>
-                </div>
+                </div> 
             </div>
             <div class="card">
                 <div class="card-image">
-                    <a href="assets/images/new_img8.png" data-fancybox="gallery" data-caption="Caption Images 1">
-                        <img src="assets/images/new_img8.png" alt="Image Gallery">
+                    <a href="assets/images/new_img8.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/new_img8.jpeg" alt="Image Gallery">
                     </a>
                 </div>
             </div>

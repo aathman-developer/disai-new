@@ -6,7 +6,7 @@
     <div class="d-flex py-lg-5 py-3"id="cyber_crimes">
         <h1 class="mx-auto font-bold text-center mb-0 heading2">Recent Trends in Cyber Crimes</h1>
     </div>
-    <main class="main mb-3">
+    <main class="main mb-3">  
         <div class="container">
             <div class="card">
                 <div class="card-image">

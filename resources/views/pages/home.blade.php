@@ -79,7 +79,7 @@
             <div class="col-12">
                 <div class="d-flex row m-0 doctors_card">
                     <div class="col-md-4 my-3 my-lg-0">
-                        <div class="card card-shadow">
+                        <div class="card card-shadow"> 
                             <div class="doctor ">
                                 <img class="card-img-top o-cover c-img" src="{{ url('assets/images/poster_cyber.jpeg') }}">
                             </div>

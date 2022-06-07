@@ -9,7 +9,7 @@
                     <h1 class="mx-auto font-bold heading2"> Some of the important events organised so far:</h1>
                 </div>
             </div>
-            <p class="about_p py-2"id="cyber">
+            <p class="about_p py-2"id="cyber"> 
                 A Lecture Session was conducted in association with MMA, Chennai on 23 May 2022 from 5.30 to 7.30 PM on
                 "Recent Trends in Cyber Crimes" Shri Amaraesh Pujai, I.P.S. Director General of Police was the Chief Guest.
                 He spoke on the recent trends in cyber crimes in India, and then highlighted the efforts taken by the Cyber
